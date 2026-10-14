@@ -1,0 +1,12 @@
+html {
+    background-color:white;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.site-footer {
+    background-color: aquamarine;
+}
