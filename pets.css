@@ -1,0 +1,24 @@
+html {
+    background-color: rgb(179, 229, 229);
+    font-family: "fenway-banner-vf", sans-serif;
+}
+
+ul {
+    margin: 0;
+}
+
+.nav-color {
+    background: rgb(72, 207, 207);
+    padding: 10px;
+}
+
+.main {
+    background-color: rgb(219, 145, 185);
+    padding: 10px;
+    padding-bottom: 18px;
+    margin-bottom: 10px;
+}
+
+.site-footer {
+    padding: 10px;
+}
